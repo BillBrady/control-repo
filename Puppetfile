@@ -5,7 +5,7 @@ forge "http://forge.puppetlabs.com"
 #mod "puppetlabs/inifile",     '1.5.0'
 #mod "puppetlabs/stdlib",      '4.11.0'
 #mod "puppetlabs/concat",      '2.1.0'
-mod 'puppetlabs-puppet_agent', '1.5.0'
+#mod 'puppetlabs-puppet_agent', '1.5.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
@@ -34,7 +34,7 @@ mod 'puppet/windowsfeature'
 mod 'puppetlabs/reboot'
 mod 'puppetlabs-ntp', '4.2.0'
 mod 'puppetlabs-inifile', '1.6.0'
-mod 'puppetlabs-puppet_agent', '1.3.1'
+mod 'puppetlabs-puppet_agent', '1.5.0'
 mod 'puppetlabs-transition', '0.1.0'
 mod 'puppetlabs-sqlserver', '2.1.0'
 mod 'puppetlabs-mount_iso', '0.1.0'
